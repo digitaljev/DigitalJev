@@ -7,5 +7,7 @@ and open the template in the editor.
     Created on : 20-Feb-2014, 20:19:06
     Author     : Josh
 */
-
+body {
+    margin-bottom: 80px;
+}
 
