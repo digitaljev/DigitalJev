@@ -1,7 +1,5 @@
 /*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
+StyleSheet
 */
 /* 
     Created on : 20-Feb-2014, 20:19:06
@@ -11,3 +9,16 @@ body {
     margin-bottom: 80px;
 }
 
+.jumbotron {
+    padding-top: 50px;
+    padding-bottom: 15px;
+}
+/*.jumbotron, h1{
+    font-size: 2em;
+}
+.jumbotron, p{
+    font-size: 1.2em;
+}
+.jumbotron, p.btn{
+    padding: 0.5em;
+}*/
