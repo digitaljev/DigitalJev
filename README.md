@@ -14,5 +14,5 @@ The Online Home of Josh Evans
 </p>
 <p>
 <h3>V3</h3>
-<strong>3.0 -</strong> Current site. Got a new domain name: DigitalJev. Started marketing the brand of DigitalJev via twitter and twitch. Created the actually site using bootstrap framework. I've tailored the site to suit my needs perfectly at this time. However there is scope for improvement when I have more web and game projects under my belt.
+<strong>3.0 -</strong> Current site. Got a new domain name: DigitalJev. Started marketing the brand of DigitalJev via twitter and twitch. Created the site using bootstrap framework. I've tailored the site to suit my needs perfectly at this time. However there is scope for improvement when I have more web and game projects under my belt.
 </p>
